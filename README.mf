@@ -11,3 +11,5 @@ master change
 Add mast line
 Second account
 
+Add Line
+Conflict
