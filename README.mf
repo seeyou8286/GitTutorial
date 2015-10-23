@@ -15,3 +15,9 @@ Add Line
 Conflict
 Conflict2
 hello
+rebase1
+rebase2
+rebase3
+rebase4
+rebasebranch
+Add branch line
